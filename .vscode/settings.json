@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+    "**/*.g.dart": true,
+    "**/*.freezed.dart": true,
+  },
+    "dart.flutterSdkPath": "C:\\src\\flutter",
+    "cSpell.words": [
+      "spotlas"
+    ]
+}
